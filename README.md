@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Jefer!</h1>
-<a align="center" href="https://ibb.co/8jwrhn1"><img src="https://i.ibb.co/0fLCwpH/309545121-521886296606141-7460182437650416972-n-1.jpg"></a>
+<a href="https://ibb.co/8jwrhn1"><img align="center" src="https://i.ibb.co/0fLCwpH/309545121-521886296606141-7460182437650416972-n-1.jpg"></a>
 <h3 align="center">Apasionado por el desarrollo, la innovación y el aprendizaje continuo.</h3>
 
 - 🔭Actualmente trabajo en el instituto del riñon de sucre.
