@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Jefer!</h1>
-<img src="https://scontent.fbaq1-1.fna.fbcdn.net/v/t39.30808-6/309545121_521886296606141_7460182437650416972_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEWBm68gjzzM5f9sy_M1bpZ2bzg3QX_xbfZvODdBf_FtyKiiWr0p7KHh1GTfgm9q2Q48JiY6dfelHrWaBVHJyjD&_nc_ohc=uEcFjJx9UzYAX-K_Rud&tn=xdQOp9Rmv0n87uC_&_nc_ht=scontent.fbaq1-1.fna&oh=00_AfDkSA3Q36Dq3-8WKRUiPPYbrXBcaHHlSG2edkbHbV2P5A&oe=637B043A">
+<img src="https://ibb.co/8jwrhn1">
 <h3 align="center">Apasionado por el desarrollo, la innovación y el aprendizaje continuo.</h3>
 
 - 🔭Actualmente trabajo en el instituto del riñon de sucre.
