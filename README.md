@@ -18,7 +18,7 @@
 
 <h3 align="left">Conectate conmigo en</h3>
 <p align="left">
-<a href="https://twitter.com/jeferdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engineerjef" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeferdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jefersson-andres-bedoya-giraldo-2090491a3/" height="30" width="40" /></a> <a href="https://instagram.com/jeferdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ingjefersson" height="30" width="40" /></a-->
+<a href="https://twitter.com/jeferdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeferdev" height="30" width="40" /></a> <a href="https://linkedin.com/in/jeferdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeferdev" height="30" width="40" /></a> <a href="https://instagram.com/jeferdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeferdev" height="30" width="40" /></a-->
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
