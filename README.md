@@ -2,11 +2,12 @@
 <div align="center"> <a href="https://ibb.co/1bKczg9"><img src="https://i.ibb.co/V3D6w1v/portada-facebook.png" alt="portada-facebook" border="0"></a></div>
 <h3 align="center">Apasionado por el desarrollo, la innovación y el aprendizaje continuo.</h3>
 
-- 🔭Actualmente trabajo en el instituto del riñon de sucre.
+- 🔭Actualmente trabajo en http
+suplos.com cómo JR fullstack developer.
 
-- 🌱 Tambien estoy haciendo un curso en Open Bootcamp de **Desarrollador fullstack**
+- 🌱 Tambien estoy haciendo la ruta en Open Bootcamp de **Desarrollador fullstack** y varias rutas de desarrollo de software en **PLATZI**
 
-- 👯 He colaborado con www.soytuabogadohoy.com
+- 👯 He colaborado con www.soytuabogadohoy.com Y otras empresas.
 
 - 🤝 Podemos colaborar en el desarrollo de **sistemas y paginas web**
 
